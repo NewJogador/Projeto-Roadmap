@@ -5,6 +5,8 @@
 ## página guia de estudos
 
  Ordem de aprendizagem e roadmaps
+ Links e conteúdos adjacentes
+ Material à ser estudado
 
 ### Roadmap Java
 
